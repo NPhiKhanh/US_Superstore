@@ -5,7 +5,10 @@ This project is the final project from Data Science Bootcamp at Coder School, VN
 - The data of this project came from kaggle (US Superstore Dataset)
 - The purpose of this project is to provide nessesary and important informations for the relevant departments of the superstore 
 - Big question: How to improve the sales and profit of the superstore ?
-
+Flow: 
++ High Sales, Low Profit
++ Low Sales, High Profit
++ New and Existing Customers
 
 ### Methods Used
 * Data Visualization
