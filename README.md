@@ -25,6 +25,6 @@ Flow:
 
 ## Getting Started
 
-1. Clone this repo (for help see this ([tutorial](https://help.github.com/articles/cloning-a-repository/)).
+Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/).
 
 
